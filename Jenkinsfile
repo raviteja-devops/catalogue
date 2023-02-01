@@ -4,6 +4,3 @@ env.component = "catalogue"
 env.app_lang = "nodejs"
 
 ci ()
-
-// Test Multibranch Pipeline
-// hello
